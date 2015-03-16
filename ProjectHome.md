@@ -1,0 +1,1 @@
+This is a light weight mozilla addon, which can be used to find security vulnerability in web applications.
